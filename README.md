@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ravijohri32@gmail.com**
 
-- ⚡ Fun fact **i am not interested anymore in programming other than scripting.**
+- ⚡ Fun fact **i am interested in Scripting rather than programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
