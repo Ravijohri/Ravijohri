@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **ravijohri32@gmail.com**
 
+- 🌱 I’m currently learning **Gitlab,DevSecOps,Terraform.**
+
 - ⚡ Fun fact **i am interested in Scripting rather than programming.**
 
 <h3 align="left">Connect with me:</h3>
