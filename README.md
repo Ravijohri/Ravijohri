@@ -1,7 +1,7 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--YDYacTLP--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://thepracticaldev.s3.amazon.com/i/q5ps4t4f0sqcqemcmuri.gif)](https:///rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ravi Johri</h1>
 <h3 align="center">A passionate about Cloud & DevOps</h3>
-<img align="right" alt="Scripting" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif"
+<img align="right" alt="Scripting" width="500"  src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/05/31103224/devOps-trends.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravijohri&label=Profile%20views&color=0e75b6&style=flat" alt="ravijohri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@ravijohri9" target="blank"><img src="https://img.shields.io/twitter/follow/@ravijohri9?logo=twitter&style=for-the-badge" alt="@ravijohri9" /></a> </p>
