@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/@ravijohri9" target="blank"><img src="https://img.shields.io/twitter/follow/@ravijohri9?logo=twitter&style=for-the-badge" alt="@ravijohri9" /></a> </p>
 
-- 💬 Ask me about **Cloud , DevOps , CI/CD**
+💬 Ask me about **Cloud , DevOps , CI/CD**
 
-- 📫 How to reach me **ravijohri32@gmail.com**
+📫 How to reach me **ravijohri32@gmail.com**
 
-- 🌱 I’m currently learning **Gitlab,DevSecOps,Terraform.**
+🌱 I’m currently learning **Gitlab,DevSecOps,Terraform.**
 
-- ⚡ Fun fact **i am interested in Scripting rather than programming.**
+⚡ Fun fact **i am interested in Scripting rather than programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
