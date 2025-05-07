@@ -15,7 +15,7 @@
 
 ⚡ Fun fact **i am interested in Scripting rather than programming.**
 
-🔭 Know about my **experiences.** [Resume](https://drive.google.com/file/d/1QVQv-oRZoyu7C4kRbv-OTNRCILOTz4fH/view?usp=sharing) 
+🔭 Know about my **experiences.** [Resume](https://drive.google.com/file/d/1Gn2B-SfByEA8tNo0wBMRkQcz2qoM3EnU/view?usp=sharing) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
