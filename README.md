@@ -11,7 +11,7 @@
 
 📫 How to reach me **ravijohri32@gmail.com**
 
-🌱 I’m currently learning **Gitlab,DevSecOps,Terraform.**
+🌱 I’m currently learning **Gitlab,DevSecOps,Terraform,Digital Marketing.**
 
 ⚡ Fun fact **i am interested in Scripting rather than programming.**
 
